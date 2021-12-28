@@ -1,3 +1,5 @@
-# Stream Template Repository
+# RS01SUM2-MJ01B-12-ADCPSK101-streamed-adcp_velocity_beam
 
-This repository is a template for all the other repositories.
+Stream Type: Science<br>
+Stream Content: Beam Coordinate Data Products<br>
+Instrument Group Code: ADCP<br>
