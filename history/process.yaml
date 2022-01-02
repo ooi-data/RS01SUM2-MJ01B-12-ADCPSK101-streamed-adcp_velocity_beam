@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/RS01SUM2-MJ01B-12-ADCPSK101-streamed-adcp_velocity_beam
 data_stream: RS01SUM2-MJ01B-12-ADCPSK101-streamed-adcp_velocity_beam
 end_date: '2020-08-18T01:23:16.053Z'
-last_updated: '2021-12-29T22:31:15.922332'
+last_updated: '2022-01-02T20:17:32.766175Z'
 start_date: '2014-09-18T22:20:43.380Z'
-status: failed
+status: pending
