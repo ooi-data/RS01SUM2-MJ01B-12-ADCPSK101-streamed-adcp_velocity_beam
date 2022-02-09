@@ -1,5 +1,5 @@
-data_ready: false
+data_ready: true
 data_stream: RS01SUM2-MJ01B-12-ADCPSK101-streamed-adcp_velocity_beam
 last_request: '2022-02-07T19:15:58.032987Z'
 response: https://raw.githubusercontent.com/ooi-data/RS01SUM2-MJ01B-12-ADCPSK101-streamed-adcp_velocity_beam/main/history/response.json
-status: pending
+status: success
